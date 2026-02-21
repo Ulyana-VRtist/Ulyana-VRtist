@@ -17,8 +17,7 @@ I design immersive spatial architecture where minimal aesthetics meet interactiv
 
 ## Current Direction
 
-Building a futuristic VR gallery inspired by the concept of a "temple of the future" —  
-clean geometry, holographic light, spatial storytelling.
+Building a futuristic VR gallery , spatial storytelling.
 
 ---
 
@@ -30,6 +29,15 @@ Spatial SDK
 Gravity Sketch
 Open Brush
 FigminXR
+
+---
+
+## Currently Building
+
+Futuristic VR Gallery in Unity for Spatial.io  
+Portal-based architecture  
+Interactive holographic exhibition logic  
+NFT-ready immersive display system
 
 ---
 
