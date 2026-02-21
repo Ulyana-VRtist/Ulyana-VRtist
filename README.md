@@ -1,16 +1,36 @@
-## Hi there 👋
+# Ulyana _ VRtist
 
-<!--
-**Ulyana-VRtist/Ulyana-VRtist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VR Artist | Unity Engineer | Metaverse Environment Builder  
 
-Here are some ideas to get you started:
+I design immersive spatial architecture where minimal aesthetics meet interactive systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus
+
+• VR-native object creation  
+• Unity-based interactive environments  
+• Spatial.io gallery development  
+• Web3-ready immersive spaces  
+
+---
+
+## Current Direction
+
+Building a futuristic VR gallery inspired by the concept of a "temple of the future" —  
+clean geometry, holographic light, spatial storytelling.
+
+---
+
+## Tools
+
+Unity   
+Blender  
+Spatial SDK  
+Gravity Sketch
+Open Brush
+FigminXR
+
+---
+
+Reality is no longer flat.
